@@ -1,4 +1,4 @@
-# PoseNetOSC-Unity
+# Lab 3 - Game with the nose
 
 This project is based on these other projects: 
 
